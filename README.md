@@ -30,3 +30,11 @@ Fix grammar errors in the text
 Contributed by Tony Dinh
 
 --------------------
+
+## SEO and Blog Ideas
+
+Get recommendations for search terms to rank for and blogs to write.
+
+> I'm {{creating or running}} a website for {{your idea or product}}. Which search terms should I rank for and which blogs should I write?
+
+Contributed by MarcF.Be (inspired by Kyle Prinsloo)
