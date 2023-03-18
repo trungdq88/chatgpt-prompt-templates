@@ -30,3 +30,16 @@ Fix grammar errors in the text
 Contributed by Tony Dinh
 
 --------------------
+## Detailed product specs
+> Write a product spec in this format:
+>
+> - Summary
+> - User Need/Problem
+> - Business Metrics
+> - Primary Research (User Interviews, User Testing)
+> - Secondary Research (Competitor Analysis, Benchmarks, Surveys)
+> - Features in the form of Jobs-to-be-done
+> - Post Mortem
+> {{your content here}}
+
+Contributed by Adrian
